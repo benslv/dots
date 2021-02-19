@@ -1,0 +1,16 @@
+[Common]
+OutlineCloseButton=false
+ShadowStrength=89
+
+[Windeco]
+AnimationsEnabled=false
+ButtonHOffset=2
+ButtonPadding=3
+ButtonSize=ButtonSmall
+ButtonSpacing=6
+ButtonStyle=macSierra
+DrawBackgroundGradient=false
+DrawSizeGrip=false
+DrawTitleBarSeparator=false
+MatchColorForTitleBar=true
+UnisonHovering=false
