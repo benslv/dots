@@ -1,0 +1,12 @@
+[user]
+	name = Ben Silverman
+	password = user.password
+	email = bensilverman10@gmail.com
+[credential]
+	helper = cache
+[pager]
+	branch = false
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
